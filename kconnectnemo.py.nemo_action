@@ -4,10 +4,10 @@ Name=Share with KDE
 
 Comment=Send files to your devices via KDE Connect, now directly through Nemo!
 
-Exec=<share_with_kde.py "%F">
+Exec=<kde_share_action.py "%F">
 
-Selection=any
+Selection=notnone
 
-Extensions=any;
+Extensions=nodirs;
 
 Separator=,
