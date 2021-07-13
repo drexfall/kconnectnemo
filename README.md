@@ -34,7 +34,7 @@ For everyone
 sudo ./install.sh
 ```
 
-### Method 2 - Manual Dependency Download
+#### Method 2 - Manual Dependency Download
 
 Install the kdeconnect and libnotify packages and continue with Method 1
 
