@@ -28,7 +28,7 @@ Just for yourself
 ./install.sh
 ```
 
-For everyone
+For everyone (do this only if KDEConnect is installed as root)
 
 ```sh
 sudo ./install.sh
